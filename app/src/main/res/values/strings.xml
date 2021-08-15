@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="temperature_template_i">%d°</string>
+    <string name="feels_like_template">Ощущается как %s°</string>
+    <string name="this_week">На этой неделе</string>
+    <string name="today_date_template">Сегодня, %s</string>
+</resources>
